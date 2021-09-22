@@ -1,6 +1,8 @@
 # Table of contents
 
 * [起始页](README.md)
+* [字符串](zi-fu-chuan/README.md)
+  * [切片](zi-fu-chuan/slicing.md)
 
 ## 练习
 
